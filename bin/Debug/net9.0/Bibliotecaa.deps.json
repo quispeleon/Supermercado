@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bibliotecaa/1.0.0": {
+        "runtime": {
+          "Bibliotecaa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bibliotecaa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
